@@ -10,7 +10,7 @@ app.use(express.json())
 const db = mysql.createConnection({
     host: "webcourse.cs.nuim.ie",
     user: "...",
-    password: "...",
+    password: "..",
     database: "..."
 })
 
