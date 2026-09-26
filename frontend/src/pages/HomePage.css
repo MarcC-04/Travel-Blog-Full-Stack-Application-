@@ -1,0 +1,27 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: #0059ff;
+    justify-content: space-between;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.homepage a{
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
